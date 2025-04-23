@@ -1,4 +1,4 @@
-colorScheme: autumn
+colorScheme: fire
 
 homepage:
   showRecent: true
@@ -7,3 +7,6 @@ homepage:
 article:
   showReadingTime: false
   showAuthor: false
+
+list:
+  showBreadcrumbs: true

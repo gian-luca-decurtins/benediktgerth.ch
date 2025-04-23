@@ -1,6 +1,6 @@
 ---
-title: "Beiträge"
-description: "Aktuelles und relevantes aus der Politik."
+title: Beiträge
+description: Aktuelles und relevantes aus der Politik.
 ---
 
 {{< lead >}}
