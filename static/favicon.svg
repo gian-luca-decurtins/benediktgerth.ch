@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 135.46667 135.46667"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   sodipodi:docname="favicon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="0.89887065"
+     inkscape:cx="396.05254"
+     inkscape:cy="461.1342"
+     inkscape:window-width="1736"
+     inkscape:window-height="1186"
+     inkscape:window-x="755"
+     inkscape:window-y="42"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       class="cls-1"
+       d="M 77.596491,31.388119 C 74.143811,23.290433 69.310061,16.481747 64.287559,9.0124483 L 50.009575,19.264607 c 10.272875,13.350365 17.033219,30.077449 17.033219,48.507856 0,18.517876 -6.445,34.591257 -16.934243,48.901467 l 13.824532,9.78029 c 5.740658,-7.13554 10.185408,-14.13988 13.663408,-22.29971 4.91431,-11.525047 7.8606,-23.765952 7.8606,-36.382047 0,-12.616093 -2.94629,-24.854694 -7.8606,-36.384344 z"
+       id="path1"
+       style="fill:#f29206;stroke-width:0.230178" />
+  </g>
+</svg>

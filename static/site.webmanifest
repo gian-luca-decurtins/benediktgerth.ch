@@ -1,7 +1,7 @@
 {
     "short_name": "Benedikt",
     "name": "Benedikt Gerth",
-    "description": "Verbindung um jeden Preis!",
+    "description": "Ziele setzen und Lösungen finden!",
     "icons": [
       {
         "src": "/favicon.svg",
@@ -43,5 +43,5 @@
     "start_url": "/",
     "scope": "/",
     "background_color": "#ffffff",
-    "theme_color": "#f9c400"
+    "theme_color": "#f29206"
   }
