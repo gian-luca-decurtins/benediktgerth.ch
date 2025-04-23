@@ -2,3 +2,8 @@ theme: blowfish
 baseURL: https://benediktgerth.ch/
 defaultContentLanguage: de
 minify: true
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON

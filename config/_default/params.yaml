@@ -1,6 +1,5 @@
 colorScheme: congo
 logo: "img/logo.svg"
-enableSearch: false
 
 article:
   showAuthor: false
