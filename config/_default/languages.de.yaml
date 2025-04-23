@@ -1,0 +1,23 @@
+languageCode: de-CH
+languageName: Deutsch
+weight: 10
+title: Benedikt Gerth
+
+params:
+  displayName: Deutsch
+  isoCode: de
+  description: Hier erfährst du, wer ich bin und was ich mache.
+  keywords:
+    - Persönliche Webseite
+    - Benedikt Gerth
+    - Benedikt
+    - Gerth
+    - Die Mitte
+    - Gemeinderat Stadt Zürich
+  author:
+    image: img/portrait-benedikt.jpg
+    name: Benedikt Gerth
+    headline: Ziele setzen und Lösungen finden!
+    links:
+      - email: mailto:bgerth@gmx.ch
+      - facebook: https://www.facebook.com/benedikt.gerth

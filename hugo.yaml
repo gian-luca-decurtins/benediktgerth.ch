@@ -1,0 +1,14 @@
+title: Benedikt Gerth
+baseURL: https://benediktgerth.ch/
+defaultContentLanguage: de
+theme: blowfish
+enableRobotsTXT: true
+minify: true
+
+params:
+  disableImageZoom: true
+  enableSearch: false
+
+  footer:
+    showCopyright: false
+    showThemeAttribution: false
