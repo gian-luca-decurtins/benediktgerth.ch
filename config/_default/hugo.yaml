@@ -5,12 +5,11 @@ languageCode: de
 theme: blowfish
 enableRobotsTXT: true
 minify: true
-outputs:
-  home: ["HTML", "RSS", "JSON"]
 
 params:
   colorScheme: congo
   logo: "img/logo.svg"
+  enableSearch: false
 
   article:
     showAuthor: false
