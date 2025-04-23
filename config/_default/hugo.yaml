@@ -1,14 +1,24 @@
 title: Benedikt Gerth
 baseURL: https://benediktgerth.ch/
 defaultContentLanguage: de
+languageCode: de
 theme: blowfish
 enableRobotsTXT: true
 minify: true
 
 params:
-  logo: "img/die-mitte-zh-11.jpg"
-  disableImageZoom: true
-  enableSearch: false
+  colorScheme: congo
+  logo: "img/logo.svg"
+
+  article:
+    showAuthor: false
+
+  homepage:
+    showRecent: true
+    mainSections: ["blog"]
+
+  header:
+    layout: fixed-fill-blur
 
   footer:
     showCopyright: false

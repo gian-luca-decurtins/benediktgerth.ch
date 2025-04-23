@@ -1,6 +1,5 @@
 ---
 title: Impressum
-slug: impressum
 date: "2024-07-08T16:00:00+02:00"
 type: page
 layout: simple

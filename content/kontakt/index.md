@@ -1,6 +1,5 @@
 ---
 title: Kontakt
-slug: kontakt
 date: 2024-04-23
 type: page
 layout: simple

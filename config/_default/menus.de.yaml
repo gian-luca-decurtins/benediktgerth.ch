@@ -1,21 +1,21 @@
 main:
   - name: Über mich
-    pageRef: /about-me
+    url: /ueber-mich
     weight: 10
   - name: Politik
-    pageRef: /politics
+    url: /politik
     weight: 20
   - name: Beiträge
-    pageRef: /posts
+    url: /blog
     weight: 30
   - name: Kontakt
-    pageRef: /contact
+    url: /kontakt
     weight: 40
 
 footer:
   - name: Impressum
-    pageRef: /legal-notice
+    url: /impressum
     weight: 10
   - name: Datenschutzerklärung
-    pageRef: /privacy-statement
+    url: /datenschutzerklaerung
     weight: 20
