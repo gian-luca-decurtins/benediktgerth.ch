@@ -1,21 +1,21 @@
 main:
   - name: Über mich
-    url: /ueber-mich
+    url: /ueber-mich/
     weight: 10
   - name: Politik
-    url: /politik
+    url: /politik/
     weight: 20
   - name: Beiträge
-    url: /blog
+    url: /blog/
     weight: 30
   - name: Kontakt
-    url: /kontakt
+    url: /kontakt/
     weight: 40
 
 footer:
   - name: Impressum
-    url: /impressum
+    url: /impressum/
     weight: 10
   - name: Datenschutzerklärung
-    url: /datenschutzerklaerung
+    url: /datenschutzerklaerung/
     weight: 20
