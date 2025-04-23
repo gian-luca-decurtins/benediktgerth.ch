@@ -1,5 +1,5 @@
 theme: blowfish
-baseURL: https://benediktgerth.ch/
+baseURL: https://benediktgerth-ch.pages.dev
 defaultContentLanguage: de
 minify: true
 outputs:
