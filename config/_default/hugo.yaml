@@ -1,26 +1,4 @@
-title: Benedikt Gerth
+theme: blowfish
 baseURL: https://benediktgerth.ch/
 defaultContentLanguage: de
-languageCode: de
-theme: blowfish
-enableRobotsTXT: true
 minify: true
-
-params:
-  colorScheme: congo
-  logo: "img/logo.svg"
-  enableSearch: false
-
-  article:
-    showAuthor: false
-
-  homepage:
-    showRecent: true
-    mainSections: ["blog"]
-
-  header:
-    layout: fixed-fill-blur
-
-  footer:
-    showCopyright: false
-    showThemeAttribution: false

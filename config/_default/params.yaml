@@ -1,0 +1,17 @@
+colorScheme: congo
+logo: "img/logo.svg"
+enableSearch: false
+
+article:
+  showAuthor: false
+
+homepage:
+  showRecent: true
+  mainSections: ["blog"]
+
+header:
+  layout: fixed-fill-blur
+
+footer:
+  showCopyright: false
+  showThemeAttribution: false
