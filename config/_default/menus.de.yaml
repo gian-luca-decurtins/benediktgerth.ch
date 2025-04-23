@@ -1,12 +1,12 @@
 main:
-  - name: Aktuelles
-    pageRef: /news
-    weight: 10
   - name: Über mich
     pageRef: /about-me
-    weight: 20
+    weight: 10
   - name: Politik
     pageRef: /politics
+    weight: 20
+  - name: Beiträge
+    pageRef: /posts
     weight: 30
   - name: Kontakt
     pageRef: /contact

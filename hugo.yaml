@@ -6,6 +6,7 @@ enableRobotsTXT: true
 minify: true
 
 params:
+  logo: "img/die-mitte-zh-11.jpg"
   disableImageZoom: true
   enableSearch: false
 

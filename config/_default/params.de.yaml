@@ -1,0 +1,9 @@
+colorScheme: fire
+
+homepage:
+  showRecent: true
+  mainSections: ["posts"]
+
+article:
+  showReadingTime: false
+  showAuthor: false
