@@ -1,6 +1,7 @@
 theme: blowfish
 baseURL: https://benediktgerth-ch.pages.dev
 defaultContentLanguage: de
+enableRobotsTXT: true
 minify: true
 outputs:
   home:
