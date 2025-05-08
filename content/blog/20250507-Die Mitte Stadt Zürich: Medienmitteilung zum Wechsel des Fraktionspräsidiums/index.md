@@ -1,5 +1,5 @@
 ---
-date: 2025-04-03
+date: 2025-05-07
 title: "Die Mitte Stadt Zürich: Medienmitteilung zum Wechsel des Fraktionspräsidiums"
 summary: "Benedikt Gerth folgt auf Christian Traber"
 tags: ["Die Mitte Stadt Zürich", "Medienmitteilung"]
