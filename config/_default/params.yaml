@@ -6,6 +6,7 @@ article:
 
 homepage:
   layout: hero
+  homepageImage: img/2048px-Katzenseen.jpg
   showRecent: true
   mainSections: ["blog"]
 
