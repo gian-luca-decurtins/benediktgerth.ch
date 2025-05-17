@@ -5,7 +5,7 @@ article:
   showAuthor: false
 
 homepage:
-  layout: page
+  layout: hero
   showRecent: true
   mainSections: ["blog"]
 
