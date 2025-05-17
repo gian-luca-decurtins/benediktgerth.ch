@@ -1,10 +1,11 @@
 colorScheme: congo
-logo: "img/logo.svg"
+logo: img/logo.svg
 
 article:
   showAuthor: false
 
 homepage:
+  layout: page
   showRecent: true
   mainSections: ["blog"]
 
